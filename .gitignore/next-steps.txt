@@ -1,0 +1,3 @@
+add hourly student count per dining hall 
+add student closest dining hall
+compute best dining hall for given meal based on distance and 

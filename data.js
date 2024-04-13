@@ -1,5 +1,13 @@
 // Define the favorite meals
-const favoriteMeals = ['Butter Chicken', 'Chicken Taco Meat', 'Mississippi Mud Brownie', 'Pulled Pork Quesadilla'];  // replace with your actual favorite meals
+const favoriteMeals = ['Butter Chicken', 'Chicken Taco', 'Mississippi Mud Brownie', 'Pulled Pork Quesadilla'];  // replace with your actual favorite meals
+
+const specialties = [] //limited time items to be defined later
+const muslimItems = ['Lebanese Knafeh Cheese','Coconut Curry Halal Chicken','Woody\'s Grape Leaves'];
+const vegetarianItems = ['Black Bean Soup','Cheese Pizza','Asian Sesame Cucumber Salad','Bao','Cilantro Lime Coleslaw','Korean Artichoke Bao'];
+const veganItems = ['Vegan Chocolate Cake','Vegan Vanilla Cupcake'];
+const highProteinItems = ['Beef Bulgogi with Sesame & Vegetables','Coconut Curry Halal Chicken','Citrus Glazed Tofu','Battered Pollock'];
+const pescetarianItems = ['Seafood Bisque','Battered Pollock'];
+
 
 const searchMeal = 'Butter Chicken';
 
