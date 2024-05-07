@@ -1,5 +1,5 @@
 // Define the favorite meals
-const favoriteMeals = ['Butter Chicken', 'Chicken Taco', 'Mississippi Mud Brownie', 'Pulled Pork Quesadilla'];  // replace with your actual favorite meals
+const favoriteMeals = ['Butter Chicken', 'Tempura Chicken', 'Ham', 'Philly Beef Sandwich', 'Chicken Taco', 'Mississippi Mud Brownie', 'Pulled Pork Quesadilla'];  // replace with your actual favorite meals
 
 const specialties = [] //limited time items to be defined later
 const muslimItems = ['Lebanese Knafeh Cheese','Coconut Curry Halal Chicken','Woody\'s Grape Leaves'];
